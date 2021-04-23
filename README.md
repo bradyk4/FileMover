@@ -12,5 +12,5 @@ Specify the correct location of your downloads folder under the variable src_dir
 
 ## Authors
 
-* **Kyle Brady** - *Initial work* - [FileMover](https://github.com/FileMover)
+* **Kyle Brady** - *Initial work* - [FileMover](https://github.com/bradyk4/FileMover)
 
